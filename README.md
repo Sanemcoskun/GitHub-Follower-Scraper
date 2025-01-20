@@ -18,6 +18,32 @@ Before running this project, ensure the following requirements are met:
 
 ## Usage
 1. Clone the repository:
-   '''bash
+   ```bash
    git clone https://github.com/username/github-follower-scraper.git
+2. Open the githubUserInnfo.py file and replace the placeholders with your GitHub username and password:
+   ```python
+   username = "your_user_name"
+   password = "your_password"
+3. Run the script:
+   ```python
+   python github.py
+   
+## Important Notes
+
+- This script is developed for **educational and research purposes only**. It is your responsibility to keep your credentials secure.
+- Use this script in compliance with **GitHub's terms of service and policies**. Automated actions may result in account suspension.
+
+## Project Structure
+
+- `github.py`: The main automation script.
+- `githubUserInnfo.py`: File containing username and password information.
+
+## Contribute
+
+If you wish to contribute, feel free to open a **Pull Request** or create an **Issue**.
+
+
+
+
+   
  
